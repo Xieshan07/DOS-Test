@@ -1,2 +1,8 @@
-scapy
-django
+argparse
+logging
+random
+socket
+sys
+time
+ssl
+socks
